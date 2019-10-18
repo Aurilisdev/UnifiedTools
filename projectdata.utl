@@ -1,7 +1,7 @@
 #Project CSGO -cheat
 {
 -projectname: Counter-Strike: Global Offensive
--projectversion: 1.0.0.0
+-projectversion: 1.0.0.1
 -downloaduri: https://github.com/Aurilisdev/UnifiedTools/raw/master/UnifiedToolsCSGO.exe
 -gameprocess: csgo
 -gameversion: date 10/9/2019
